@@ -1,0 +1,18 @@
+[
+    {
+        "cinemaId": null,
+        "cinemaName": "asdas",
+        "cinemaTotalCapacity": "878",
+        "cinemaTicketPrice": "1231",
+        "cinemaAddress": "asdas",
+        "cinemaAvailability": "45"
+    },
+    {
+        "cinemaId": null,
+        "cinemaName": "cine",
+        "cinemaTotalCapacity": "12",
+        "cinemaTicketPrice": "120",
+        "cinemaAddress": "holi",
+        "cinemaAvailability": "15"
+    }
+]
