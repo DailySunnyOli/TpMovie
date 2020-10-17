@@ -15,6 +15,8 @@
                          <th>Precio de la entrada</th>
                          <th>Capacidad total</th>
                          <th>Direccion </th>
+                         <th>Modificar</th>
+                         <th>Eliminar</th>
                     </thead>
                     <tbody>
                          <?php 
@@ -33,7 +35,7 @@
                          </tr>
                     </tbody>
                </table>
-               <form action="<?php echo FRONT_ROOT ?>Cinema/EditCinema". method="post" class="bg-light-alpha p-5">
+               <!--<form action="<?php //echo FRONT_ROOT ?>Cinema/EditCinema". method="post" class="bg-light-alpha p-5">
                <table class="table text-white bg-oscuro"> 
             
               <tr>
@@ -44,7 +46,7 @@
                 </td>
            
              </tr>
-             <tr>
+             <tr> -->
                </form>
           </div>
      </section>

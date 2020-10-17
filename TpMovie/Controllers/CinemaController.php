@@ -57,6 +57,13 @@ class CinemaController{
 
         $this->ShowListView();
     }
+    public function DeleteCinema()
+    {
+        $cinema = new Cinema();
+        $cinema->setcinemaAvailabilit(false);
+
+        $this->cinemaDAO->add($cinema);
+    }
 
 }
 

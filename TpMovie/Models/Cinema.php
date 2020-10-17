@@ -9,9 +9,10 @@ class Cinema{
     private $cinemaAddress;
     private $cinemaAvailability;
 
+
     public function __construct()
     {
-
+        $this->cinemaAvailability = true;
     }
 
     /**
